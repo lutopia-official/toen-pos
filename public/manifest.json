@@ -1,0 +1,24 @@
+{
+  "name": "吐煙怪獸 TOEN KAIJYU POS",
+  "short_name": "怪獸POS",
+  "description": "吐煙怪獸專用點餐與管理系統",
+  "start_url": "./index.html#/staff",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "shisha bar icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "shisha bar icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
